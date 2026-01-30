@@ -8639,7 +8639,7 @@
 				(justify left top)
 			)
 		)
-		(pin "GND" input
+		(pin "GND" passive
 			(at 148.59 57.15 90)
 			(uuid "03262c7e-3b2f-41aa-bddd-b6021cf0a674")
 			(effects
@@ -8659,7 +8659,7 @@
 				(justify left)
 			)
 		)
-		(pin "Vout" input
+		(pin "Vout" output
 			(at 160.02 63.5 0)
 			(uuid "e3c65b0b-95ca-4db7-8d52-09ff45e8cde9")
 			(effects
