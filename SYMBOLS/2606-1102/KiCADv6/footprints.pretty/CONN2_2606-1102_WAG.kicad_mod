@@ -213,16 +213,6 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "86a71305-08b5-4c37-83af-65498c47013c")
-	)
-	(fp_line
-		(start -7.104001 -2.254001)
-		(end -7.104001 22.554)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(layer "F.CrtYd")
 		(uuid "cdfefd91-b7d4-42f7-ab0e-36eea271c054")
 	)
 	(fp_line
